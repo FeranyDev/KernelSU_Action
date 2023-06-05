@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Build Kernel xiaomi 12X test
 on:
   watch:
     types: [started]
